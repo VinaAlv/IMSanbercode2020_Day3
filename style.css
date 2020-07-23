@@ -1,0 +1,84 @@
+/*style carousel*/
+.carousel-inner .carousel-item{
+    margin-top: 250px;
+}
+
+/*style card*/
+.harga{
+    font-size: larger;
+    text-align: left;
+    margin-left: 0;
+    color: royalblue;
+}
+
+.card{
+    margin-top: 30px;
+}
+
+/*style navbar*/
+.navbar{
+    background-color: rgb(247, 111, 195);
+}
+
+#navbar_produk{
+    margin-top: 50px;
+}
+
+#navbar_bottom{
+    margin-top: 150px;
+}
+
+/*style body*/
+body{
+    background-color: white;
+}
+
+/*style grid kolom 3*/
+.feature{
+ text-align: justify;
+ padding: 1px;
+}
+
+/* Style grid kolom 1 */
+#kategori, #Brand, #tipe, #harga{
+    text-align: left;
+    font-size: 20px;
+    border-bottom: 1px solid ;
+}
+
+#list, #merk, #tipe_kulit, #harga_produk{
+    text-align: left;
+    font-size: 20px;
+    text-decoration-color: none;
+    
+}
+
+.produk{
+    color: black;
+}
+
+.produk:hover {
+    color: burlywood;
+}
+
+.row .col-md-2{
+    margin-top: 250px;
+}
+/*style external link */
+#beautyclassEmina{
+    color: black;
+    background-color: burlywood;
+    text-align: center;
+    text-decoration: black;
+}
+
+footer{
+    background-color: rgb(241, 143, 228);
+    bottom: 0;
+    text-align: center;
+    padding: 10px;
+}
+
+#nama_shop{
+    font-size: 40px;
+}
